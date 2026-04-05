@@ -75,3 +75,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 /Unreal/Saved
 /Unreal/Intermediate
+/Unreal/Build/Windows/FileOpenOrder
+/Unreal/Build/Windows/FileOpenOrder
